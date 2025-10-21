@@ -14,4 +14,6 @@ langchain-community
 ctransformers
 
 ![Tela inicial](Email_Generator_with_llama/geradordeemails.PNG)
-Email_Generator_with_llama/gerador de emails.PNG
+
+
+Desenvolvido durante o curso: **Learn End to End LLM Generative AI (Gen AI) projects - Langchain - OpenAI, HuggingFace, LLAMA 2 Gemin models Langchain** conduzido por Sharath Raju
