@@ -12,3 +12,6 @@ streamlit
 langchain
 langchain-community
 ctransformers
+
+![Tela inicial](Email_Generator_with_llama/geradordeemails.PNG)
+Email_Generator_with_llama/gerador de emails.PNG
